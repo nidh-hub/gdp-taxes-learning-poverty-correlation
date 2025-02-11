@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576513277834.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3112702008",
+    "id" : "FCC51A16",
+    "lastKnownWriteTime" : 1576514402,
+    "last_content_update" : 1576514402598,
+    "path" : "~/7COM1079/learning-poverty/R/LPV_GDP_Combine/combine_using_rowval_n_colname.R",
+    "project_path" : "combine_using_rowval_n_colname.R",
+    "properties" : {
+        "cursorPosition" : "6,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

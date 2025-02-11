@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576514724699.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B9E5939D",
+    "lastKnownWriteTime" : 1576514402,
+    "last_content_update" : 1576514724699,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "12EC746D",
+        "caption" : "df_drop",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_drop&cache_key=12EC746D",
+        "displayedObservations" : 261,
+        "environment" : "",
+        "expression" : "df_drop",
+        "object" : "df_drop",
+        "preview" : 0,
+        "totalObservations" : 261,
+        "variables" : 13
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
